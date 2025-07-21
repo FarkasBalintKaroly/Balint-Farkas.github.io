@@ -25,7 +25,7 @@ author:
   avatar           : "profile_ez.jpg"
   name             : "Balint Karoly Farkas"
   pronouns         : # example: "she/her"  
-  bio              : "Bálint Károly Farkas is a PhD student at Óbuda University’s Doctoral School of Applied Informatics and Applied Mathematics, focusing on robotics and reinforcement learning. He works as a departmental engineer and lab assistant, and has published internationally in the field of robot learning."
+  bio              : "Meta-Learning in Robotics"
   location         : "Hungary"
   employer         : "Obuda University"
   uri              : # URL
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "balintfarkas"
+  github           : "FarkasBalintKaroly"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
