@@ -32,8 +32,7 @@ author:
 #  email            : "none@example.org" 
 
   # Academic websites
-  academia         : # URL
-  mtmt             : "https://m2.mtmt.hu/gui2/?type=authors&mode=browse&sel=authors10099074"
+  academia         : "https://m2.mtmt.hu/gui2/?type=authors&mode=browse&sel=authors10099074"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=JKTiC4EAAAAJ&hl=hu&oi=ao"
   impactstory      : # URL
@@ -47,13 +46,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "balintfarkas"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -62,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "farkas-balint-karoly"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
