@@ -13,7 +13,7 @@ title                    : "Balint's Homepage"
 title_separator          : "-"
 name                     : &name "Balint Karoly"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://farkasbalintkaroly.github.io/Balint-Farkas.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile_ez.jpg"
   name             : "Balint Karoly Farkas"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Bálint Károly Farkas, MSc in Mechatronics Engineering, currently pursuing a PhD at the Doctoral School of Applied Informatics and Applied Mathematics of Óbuda University. He also holds an MSc degree in Computer Science. He works as a departmental engineer at Óbuda University and as a lab assistant at the Székesfehérvár Science and Innovation Park, specializing in robotics. His main research interests are robotics and reinforcement learning, with a focus on robot learning and Sim2Real transfer. He has initiated several research projects in these fields. He is the author of two international publications and has achieved notable recognition in robotics competitions, including a 2nd place at a European Championship and a 7th place at the World Championship in industrial robotics."
   location         : "Hungary"
   employer         : "Obuda University"
   uri              : # URL
@@ -34,7 +34,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=JKTiC4EAAAAJ&hl=hu&oi=ao"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
