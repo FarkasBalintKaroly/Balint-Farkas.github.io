@@ -1,14 +1,14 @@
 ---
 title: "Advances in Autonomous Robotic Grasping: An Overview of Reinforcement Learning Approaches"
 collection: publications
-category: manuscripts
+category: conference-papers
 permalink: /publications/2024-LINDI
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Reinforcement Learning (RL) has become a pivotal tool in robotic manipulation, especially for tasks requiring adaptability, such as object grasping. By allowing robots to learn optimal behaviors through trial and error, RL, when integrated with advanced vision systems, enhances the ability of robots to interact effectively with their environment. This paper reviews the fundamental aspects of RL in robotic grasping, including perception, decision-making, and execution, and explores practical applications in frameworks like “Laboratory Automation Plug and Play (LAPP)”. While significant advancements have been made, challenges such as sim-to-real transfer, computational efficiency, and robustness remain critical issues. Additionally, the role of vision systems in object detection and grasp planning is examined, along with the evaluation of performance in simulated and real-world settings. The paper concludes by discussing future directions, emphasizing the need for improved algorithms, better sim-to-real techniques, and multi-agent cooperation. Overall, RL continues to advance autonomous robotic systems, enhancing their precision and capability in complex tasks.'
 date: 2024-10-23
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: '2024 IEEE 6th International Symposium on Logistics and Industrial Informatics (LINDI)'
+slidesurl: 'https://farkasbalintkaroly.github.io/Balint-Farkas.github.io/files/LINDI_PPT.pptx'
+paperurl: 'https://farkasbalintkaroly.github.io/Balint-Farkas.github.io/files/LINDI.pdf'
+bibtexurl: 'https://farkasbalintkaroly.github.io/Balint-Farkas.github.io/files/LINDI_bib.bib'
+citation: 'B. Károly Farkas, P. Galambos and K. Széll, "Advances in Autonomous Robotic Grasping: An Overview of Reinforcement Learning Approaches," 2024 IEEE 6th International Symposium on Logistics and Industrial Informatics (LINDI), Karaganda, Kazakhstan, 2024, pp. 000213-000220, doi: 10.1109/LINDI63813.2024.10820398.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Reinforcement Learning (RL) has become a pivotal tool in robotic manipulation, especially for tasks requiring adaptability, such as object grasping. By allowing robots to learn optimal behaviors through trial and error, RL, when integrated with advanced vision systems, enhances the ability of robots to interact effectively with their environment. This paper reviews the fundamental aspects of RL in robotic grasping, including perception, decision-making, and execution, and explores practical applications in frameworks like “Laboratory Automation Plug and Play (LAPP)”. While significant advancements have been made, challenges such as sim-to-real transfer, computational efficiency, and robustness remain critical issues. Additionally, the role of vision systems in object detection and grasp planning is examined, along with the evaluation of performance in simulated and real-world settings. The paper concludes by discussing future directions, emphasizing the need for improved algorithms, better sim-to-real techniques, and multi-agent cooperation. Overall, RL continues to advance autonomous robotic systems, enhancing their precision and capability in complex tasks.
