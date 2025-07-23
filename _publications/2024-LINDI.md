@@ -1,7 +1,7 @@
 ---
 title: "Advances in Autonomous Robotic Grasping: An Overview of Reinforcement Learning Approaches"
 collection: publications
-category: conference-papers
+category: conferences
 permalink: /publications/2024-LINDI
 excerpt: 'Reinforcement Learning (RL) has become a pivotal tool in robotic manipulation, especially for tasks requiring adaptability, such as object grasping. By allowing robots to learn optimal behaviors through trial and error, RL, when integrated with advanced vision systems, enhances the ability of robots to interact effectively with their environment. This paper reviews the fundamental aspects of RL in robotic grasping, including perception, decision-making, and execution, and explores practical applications in frameworks like “Laboratory Automation Plug and Play (LAPP)”. While significant advancements have been made, challenges such as sim-to-real transfer, computational efficiency, and robustness remain critical issues. Additionally, the role of vision systems in object detection and grasp planning is examined, along with the evaluation of performance in simulated and real-world settings. The paper concludes by discussing future directions, emphasizing the need for improved algorithms, better sim-to-real techniques, and multi-agent cooperation. Overall, RL continues to advance autonomous robotic systems, enhancing their precision and capability in complex tasks.'
 date: 2024-10-23
